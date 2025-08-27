@@ -7,7 +7,7 @@ Projektin työvaiheet jaetaan tiimin jäsenten kesken 2 viikon kestäviin sprint
 
 ## Sprintit
 
-Yksi sprintti kestää 2 viikkoa. 
+Sprintin pituus on yleensä 1-4 viikkoa. Me valitsimme projektillemme yhden sprintin kestoksi 2 viikkoa. 
 
 ## Työjonot
 

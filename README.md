@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Tiimin Scrum-opas
 >>>>>>> feature/Marianne
 
@@ -10,13 +9,10 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 
 ## Sprintit
 
-<<<<<<< HEAD
 - Sprintin pituus on yleensä 1-4 viikkoa. Me valitsimme projektillemme yhden sprintin kestoksi 2 viikkoa.
 - Sprintin alussa suunnitellaan, mitä työjonosta toteutetaan.
 - Sprintin lopussa pidetään katselmointi ja retro.
 - Sprintti on aikarajattu → sisältö voi muuttua, mutta kesto ei.
-=======
->>>>>>> feature/Marianne
 
 ## Työjonot
 

@@ -1,4 +1,4 @@
-# GitHub-projekti-harjoitus-
+## Tiimin Scrum-opas
 
 
 ## Scrum-syklin yleiskuvaus

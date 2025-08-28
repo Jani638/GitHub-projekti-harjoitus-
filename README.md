@@ -14,7 +14,6 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - Sprintin lopussa pidetään katselmointi ja retro.
 - Sprintti on aikarajattu → sisältö voi muuttua, mutta kesto ei.
 
-
 ## Työjonot
 
 - **Product backlog**: lista kaikista kehitysideista, ominaisuuksista ja korjauksista. Pitää sisällään kaikki projektin tehtävät.  

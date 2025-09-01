@@ -13,3 +13,10 @@ Scrum-tiimissä kaikki jäsenet työskentelevät saman tuotteen parissa, joten v
   - `Update README with installation instructions`  
 - **Ratkaise konfliktit huolellisesti:** Jos repositoryssa on ristiriitoja, tarkista koodin molemmat versiot ja varmista, ettei mitään tärkeää katoa. Kommunikoi tiimin kanssa, jos olet epävarma.  
 
+### Branchien käyttö projektissa
+- **Päähaara (`main`):** Sisältää aina toimivan ja testatun version projektista.  
+- **Ominaisuushaarat (feature branches):** Tee uusi branch aina uutta ominaisuutta tai isompaa muutosta varten, esim. `feature/login-page`.  
+- **Bugikorjaushaarat (bugfix branches):** Pienemmät korjaukset voidaan tehdä erillisessä haarassa, esim. `bugfix/navbar-link`.  
+- **Mergeaminen:** Kun työ on valmis ja testattu, yhdistä se (`merge` tai `pull request`) päähaaraan.  
+
+Branchien käyttö vähentää riskiä rikkoa projektin toimivaa versiota ja helpottaa tiimityötä, kun jokainen voi kehittää omaa osaansa rinnakkain.

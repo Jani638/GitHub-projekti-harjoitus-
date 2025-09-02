@@ -41,3 +41,30 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - Itseohjautuvuus: tiimillä on valta ja vastuu työstä.  
 - Jatkuva parantaminen: retroissa sovitaan kehityskohteista.  
 - Nopeampi arvon tuottaminen asiakkaalle.  
+
+## Sanastoa
+
+- **Product Backlog**  
+  Lista kaikista tunnetuista vaatimuksista ja kehityskohteista tuotteelle. Elävä dokumentti, jota Product Owner priorisoi.
+
+- **Sprint**  
+  Aikajakso (yleensä 1–4 viikkoa), jonka aikana tiimi toteuttaa valitun määrän tehtäviä ja toimittaa valmiin inkrementin.
+
+- **Sprint Backlog**  
+  Sprinttiin valitut tehtävät, jotka kehitystiimi sitoutuu tekemään.
+
+- **Increment**  
+  Sprintin lopputulos: toimiva, testattu ja julkaistavissa oleva kokonaisuus tuotteesta.
+
+- **Daily Scrum**  
+  Päivittäinen 15 minuutin tiimipalaveri, jossa seurataan edistymistä.
+
+- **Scrum Master**  
+  Henkilö, joka tukee tiimiä SCRUM-prosessin noudattamisessa, poistaa esteitä ja edistää jatkuvaa parantamista.
+
+- **Product Owner**  
+  Vastaa tuotteen arvon maksimoimisesta, priorisoi backlogia ja kommunikoi sidosryhmien kanssa.
+
+- **Definition of Done (DoD)**  
+  Tiimin yhteinen sopimus siitä, milloin työ katsotaan valmiiksi.
+

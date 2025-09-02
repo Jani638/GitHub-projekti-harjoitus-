@@ -1,7 +1,7 @@
 # Scrum-ohje projektille
 
 ## Scrum-syklin yleiskuvaus
-Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin (*sprinteihin*).  
+Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin (*sprintteihin*).  
 Jokaisen sprintin aikana tiimi toteuttaa valitut tehtävät, testaa niitä ja arvioi työn tuloksia.  
 Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksiin.
 
@@ -10,6 +10,14 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - Sprintin alussa suunnitellaan, mitä työjonosta toteutetaan.
 - Sprintin lopussa pidetään katselmointi ja retro.
 - Sprintti on aikarajattu → sisältö voi muuttua, mutta kesto ei.
+
+## Sprintin rakenne
+| Sprintin vaihe        | Kuvaus                          |
+| --------------------- |:-------------------------------:|
+| Sprint planning       | Suunnitellaan sprintin tehtävät |
+| Daily scrum           | päivittäinen tapaaminen         |
+| Sprint review         | Katselmus tuloksista            |
+|Sprint retrospective   | Tiimin kehityskokous            |
 
 ## Työjonot
 - **Product backlog**: lista kaikista kehitysideista, ominaisuuksista ja korjauksista.  

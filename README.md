@@ -7,10 +7,13 @@ Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin
 Jokaisessa sprintissä tiimi toteuttaa valitut tehtävät, testaa tulokset ja arvioi työn onnistumista.  
 Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksiin.  
 
+## Scrum kuvattuna
+![SRCUM sprintin vaiheet](./images/scrum-framework.png)
+
 ## Sprintit
-- Pituus yleensä **1–4 viikkoa** (meillä 2 viikkoa).  
-- Sprintin alussa: **Sprint Planning** – valitaan backlogilta tehtävät.  
-- Sprintin lopussa: **Review & Retrospective** – katsotaan tulokset ja parannetaan prosessia.  
+- Pituus yleensä **1–4 viikkoa**  Me valitsimme yhden sprintin kestoksi 2 viikkoa.  
+- Sprintin alussa: **Sprint Planning** – suunnitellaan, mitä työjonosta toteutetaan..  
+- Sprintin lopussa: **Review & Retrospective** – lopussa pidetään katselmointi ja retro.  
 - Sprintti on **aikarajattu** → sisältö voi muuttua, mutta kesto ei.  
 
 ### Sprintin rakenne
@@ -22,21 +25,22 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 | Sprint Retrospective | Tiimin kehityskokous            |
 
 ## Työjonot
-- **Product Backlog**: kaikki ideat, ominaisuudet ja korjaukset  
+- **Product Backlog**: kaikki ideat, ominaisuudet ja korjaukset. Pitää sisällään kaikki projektin tehtävät.
 - **Sprint Backlog**: yhden sprintin valitut tehtävät  
 - **Seurantataulu**: esim. GitHub Project → *To do → In progress → Done*  
 - **Priorisointi**: tärkein ja arvokkain työ tehdään ensin  
 
 ## Roolit
-- **Product Owner (PO):** vastaa tuotteen visiosta ja priorisoi backlogia  
-- **Scrum Master (SM):** huolehtii prosessista ja poistaa esteitä  
-- **Kehitystiimi:** toteuttaa tehtävät itseohjautuvasti  
+- **Product Owner (PO)**: vastaa tuotteen visiosta ja priorisoi backlogia.  
+- **Scrum Master (SM)**: huolehtii prosessista, poistaa esteitä ja tukee tiimiä.  
+- **Kehitystiimi**: toteuttaa sprintin tehtävät, itseohjautuvasti ja moniosaajina.
 
 ## Kokoukset
-- **Sprint Planning:** asetetaan tehtävät ja tavoitteet  
-- **Daily Scrum:** nopea tiimin tilannepäivitys  
-- **Sprint Review:** esitellään tulokset sidosryhmille  
-- **Sprint Retrospective:** sovitaan parannuksista  
+- **Sprint Planning**: Tässä asetamme sprintille olennaiset tehtävät ja tavoitteet. 
+- **Weekly Scrum**: Viikoittainen tiimitapaaminen, jossa katsomme kuinka tiimin toiminta edistyy.
+- **Sprint Review**: esitellään sprintin tulokset sidosryhmille.  
+- **Sprint Retrospective**: tiimi arvioi prosessin ja sopii parannuksista. 
+
 
 ## Miksi Scrum toimii?
 - **Läpinäkyvyys:** kaikki näkevät mitä tehdään  
@@ -46,14 +50,14 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - **Asiakashyöty:** arvoa toimitetaan nopeammin  
 
 ## Sanastoa
-- **Product Backlog:** lista kaikista vaatimuksista  
-- **Sprint:** aikajakso, jolloin tehtävät toteutetaan  
-- **Sprint Backlog:** sprintin tehtävät, joihin tiimi sitoutuu  
-- **Increment:** sprintin lopputulos (toimiva versio)  
-- **Daily Scrum:** päivittäinen 15 min palaveri  
-- **Scrum Master:** prosessin tukija ja esteiden poistaja  
-- **Product Owner:** vastaa tuotteen arvosta  
-- **Definition of Done (DoD):** tiimin sopimus, milloin työ on valmis  
+- **Product Backlog** Lista kaikista tunnetuista vaatimuksista ja kehityskohteista tuotteelle. Elävä dokumentti, jota Product Owner priorisoi.
+- **Sprint**  Aikajakso (yleensä 1–4 viikkoa), jonka aikana tiimi toteuttaa valitun määrän tehtäviä ja toimittaa valmiin inkrementin.
+- **Sprint Backlog**  Sprinttiin valitut tehtävät, jotka kehitystiimi sitoutuu tekemään.
+- **Increment**  Sprintin lopputulos: toimiva, testattu ja julkaistavissa oleva kokonaisuus tuotteesta.
+- **Daily Scrum**  Päivittäinen 15 minuutin tiimipalaveri, jossa seurataan edistymistä.
+- **Scrum Master**  Henkilö, joka tukee tiimiä SCRUM-prosessin noudattamisessa, poistaa esteitä ja edistää jatkuvaa parantamista.
+- **Product Owner**  Vastaa tuotteen arvon maksimoimisesta, priorisoi backlogia ja kommunikoi sidosryhmien kanssa.
+- **Definition of Done (DoD)**  Tiimin yhteinen sopimus siitä, milloin työ katsotaan valmiiksi.
 
 ## Versionhallinta (GitHub)
 - **Main:** aina toimiva versio  

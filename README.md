@@ -49,15 +49,19 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - **Jatkuva parantaminen:** retroissa sovitaan kehityskohteista  
 - **Asiakashyöty:** arvoa toimitetaan nopeammin  
 
-## Sanastoa
-- **Product Backlog** Lista kaikista tunnetuista vaatimuksista ja kehityskohteista tuotteelle. Elävä dokumentti, jota Product Owner priorisoi.
-- **Sprint**  Aikajakso (yleensä 1–4 viikkoa), jonka aikana tiimi toteuttaa valitun määrän tehtäviä ja toimittaa valmiin inkrementin.
-- **Sprint Backlog**  Sprinttiin valitut tehtävät, jotka kehitystiimi sitoutuu tekemään.
-- **Increment**  Sprintin lopputulos: toimiva, testattu ja julkaistavissa oleva kokonaisuus tuotteesta.
-- **Daily Scrum**  Päivittäinen 15 minuutin tiimipalaveri, jossa seurataan edistymistä.
-- **Scrum Master**  Henkilö, joka tukee tiimiä SCRUM-prosessin noudattamisessa, poistaa esteitä ja edistää jatkuvaa parantamista.
-- **Product Owner**  Vastaa tuotteen arvon maksimoimisesta, priorisoi backlogia ja kommunikoi sidosryhmien kanssa.
-- **Definition of Done (DoD)**  Tiimin yhteinen sopimus siitä, milloin työ katsotaan valmiiksi.
+## Sanasto
+
+| Termi                  | Selitys                                                                 |
+|------------------------|-------------------------------------------------------------------------|
+| Product Backlog         | Lista kaikista tunnetuista vaatimuksista ja kehityskohteista tuotteelle |
+| Sprint                  | Aikajakso (yleensä 1–4 viikkoa), jolloin toteutetaan valitut tehtävät    |
+| Sprint Backlog          | Sprinttiin valitut tehtävät, joihin kehitystiimi sitoutuu               |
+| Increment               | Sprintin lopputulos: toimiva, testattu ja julkaistavissa oleva kokonaisuus |
+| Daily Scrum             | Päivittäinen 15 min tiimipalaveri, jossa seurataan edistymistä         |
+| Scrum Master            | Prosessin tukija, esteiden poistaja, jatkuvan parantamisen edistäjä     |
+| Product Owner           | Vastaa tuotteen arvon maksimoimisesta ja backlogin priorisoinnista     |
+| Definition of Done (DoD)| Tiimin sopimus, milloin työ katsotaan valmiiksi                        |
+
 
 ## Versionhallinta (GitHub)
 - **Main:** aina toimiva versio  

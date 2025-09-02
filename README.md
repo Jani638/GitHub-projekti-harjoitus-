@@ -3,9 +3,13 @@
 
 
 ## Scrum-syklin yleiskuvaus
-Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin (*sprinteihin*).  
-Jokaisen sprintin aikana tiimi toteuttaa valitut tehtävät, testaa niitä ja arvioi työn tuloksia.   Jokaisen sprintin lopussa työt arvioidaan ja tarvittaessa tehdään parannuksia toimintaan. 
+
+Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin (*sprintteihin*).  
+Jokaisen sprintin aikana tiimi toteuttaa valitut tehtävät, testaa niitä ja arvioi työn tuloksia.  
 Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksiin.
+
+## Scrum kuvattuna
+![SRCUM sprintin vaiheet](./images/scrum-framework.png)
 
 ## Sprintit
 
@@ -13,6 +17,14 @@ Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksi
 - Sprintin alussa suunnitellaan, mitä työjonosta toteutetaan.
 - Sprintin lopussa pidetään katselmointi ja retro.
 - Sprintti on aikarajattu → sisältö voi muuttua, mutta kesto ei.
+
+## Sprintin rakenne
+| Sprintin vaihe        | Kuvaus                          |
+| --------------------- |:-------------------------------:|
+| Sprint planning       | Suunnitellaan sprintin tehtävät |
+| Daily scrum           | päivittäinen tapaaminen         |
+| Sprint review         | Katselmus tuloksista            |
+|Sprint retrospective   | Tiimin kehityskokous            |
 
 ## Työjonot
 
@@ -36,6 +48,35 @@ Tehtävät priorisoidaan niin, että arvokkain työ tehdään ensin.
 
 ## Miksi Scrum toimii?
 
-Uskomme, että Scrum toimii, koska se antaa tiimille selkeän näkyvyyden projektin etenemisestä. Tämä varmistaa, että kaikki pysyvät kartalla projektin tehtävistä ja aikataulusta. Mielestämme tämä myös parantaa yhteistyötä. 
+- Läpinäkyvyys: kaikki näkevät mitä tehdään ja miksi.  
+- Iteratiivisuus: tuote paranee jatkuvasti pienissä osissa.  
+- Itseohjautuvuus: tiimillä on valta ja vastuu työstä.  
+- Jatkuva parantaminen: retroissa sovitaan kehityskohteista.  
+- Nopeampi arvon tuottaminen asiakkaalle.  
 
-Se toimii myös koska tuote paranee jatkuvasti pienissä osissa, jonka seurauksena on nopeampi arvon tuottaminen asiakkaalle.  
+## Sanastoa
+
+- **Product Backlog**  
+  Lista kaikista tunnetuista vaatimuksista ja kehityskohteista tuotteelle. Elävä dokumentti, jota Product Owner priorisoi.
+
+- **Sprint**  
+  Aikajakso (yleensä 1–4 viikkoa), jonka aikana tiimi toteuttaa valitun määrän tehtäviä ja toimittaa valmiin inkrementin.
+
+- **Sprint Backlog**  
+  Sprinttiin valitut tehtävät, jotka kehitystiimi sitoutuu tekemään.
+
+- **Increment**  
+  Sprintin lopputulos: toimiva, testattu ja julkaistavissa oleva kokonaisuus tuotteesta.
+
+- **Daily Scrum**  
+  Päivittäinen 15 minuutin tiimipalaveri, jossa seurataan edistymistä.
+
+- **Scrum Master**  
+  Henkilö, joka tukee tiimiä SCRUM-prosessin noudattamisessa, poistaa esteitä ja edistää jatkuvaa parantamista.
+
+- **Product Owner**  
+  Vastaa tuotteen arvon maksimoimisesta, priorisoi backlogia ja kommunikoi sidosryhmien kanssa.
+
+- **Definition of Done (DoD)**  
+  Tiimin yhteinen sopimus siitä, milloin työ katsotaan valmiiksi.
+

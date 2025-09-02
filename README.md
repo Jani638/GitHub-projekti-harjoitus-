@@ -5,6 +5,9 @@ Scrum on ketterän kehityksen viitekehys, jossa työ jaetaan lyhyisiin sykleihin
 Jokaisen sprintin aikana tiimi toteuttaa valitut tehtävät, testaa niitä ja arvioi työn tuloksia.  
 Tavoitteena on jatkuva arvon tuottaminen asiakkaalle ja nopea reagointi muutoksiin.
 
+## Scrum kuvattuna
+![SRCUM sprintin vaiheet](./images/scrum-framework.png)
+
 ## Sprintit
 - Kesto yleensä 1–4 viikkoa (suositeltu 2 viikkoa).
 - Sprintin alussa suunnitellaan, mitä työjonosta toteutetaan.
